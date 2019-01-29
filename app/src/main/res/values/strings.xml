@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">NRL Score Keeper</string>
+
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team B</string>
+
+    <string name="score">0</string>
+
+    <string name="btn_try">Try</string>
+    <string name="btn_try_conversion">Try Conversion</string>
+    <string name="btn_penalty">Penalty Goal</string>
+    <string name="btn_field">Field Goal</string>
+
+    <string name="points_breakdown">Points Breakdown</string>
+    <string name="pb_1">1. Try = 4 points</string>
+    <string name="pb_2">2. Successful Try Conversion = 2 points</string>
+    <string name="pb_3">3. Successful Penalty Goal = 2 points</string>
+    <string name="pb_4">4. Field Goal = 1 point</string>
+
+    <string name="btn_reset">Reset</string>
+
+
+</resources>
